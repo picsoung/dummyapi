@@ -1,0 +1,19 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Dummy API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "description": "Root of the API"
+      }
+    },
+    "/hello": {
+      "get": {
+        "description": "Hello Endpoint"
+      }
+    }
+  }
+}
