@@ -12,7 +12,7 @@
     },
     "/hello": {
       "get": {
-        "description": "Hello Endpoint"
+        "description": "Hello Endpofffint"
       }
     }
   }
