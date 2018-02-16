@@ -7,7 +7,7 @@
   "paths": {
     "/": {
       "get": {
-        "description": "Root of the API"
+        "description": "Roothhh of the API"
       }
     },
     "/hello": {
